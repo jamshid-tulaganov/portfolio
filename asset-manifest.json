@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/jamshidwizard/portfolio.git/static/css/main.349909ad.css",
-    "main.js": "/jamshidwizard/portfolio.git/static/js/main.98cac2b6.js",
-    "static/media/hero.png": "/jamshidwizard/portfolio.git/static/media/hero.d9a339171d6952bf2eb3.png",
-    "static/media/about-hero.png": "/jamshidwizard/portfolio.git/static/media/about-hero.f86a56cbe46afa012429.png",
-    "static/media/award.png": "/jamshidwizard/portfolio.git/static/media/award.571916e178c8834bedc6.png",
-    "static/media/address.png": "/jamshidwizard/portfolio.git/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/jamshidwizard/portfolio.git/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/phone.png": "/jamshidwizard/portfolio.git/static/media/phone.d90a6d23cf5129d853bb.png",
-    "index.html": "/jamshidwizard/portfolio.git/index.html",
-    "main.349909ad.css.map": "/jamshidwizard/portfolio.git/static/css/main.349909ad.css.map",
-    "main.98cac2b6.js.map": "/jamshidwizard/portfolio.git/static/js/main.98cac2b6.js.map"
+    "main.css": "/portfolio/static/css/main.349909ad.css",
+    "main.js": "/portfolio/static/js/main.935682ab.js",
+    "static/media/hero.png": "/portfolio/static/media/hero.d9a339171d6952bf2eb3.png",
+    "static/media/portfolio-1.png": "/portfolio/static/media/portfolio-1.1e10da94c4fd9a37b0c1.png",
+    "static/media/about-hero.png": "/portfolio/static/media/about-hero.f86a56cbe46afa012429.png",
+    "static/media/game.png": "/portfolio/static/media/game.18d93bacafe87a56e99b.png",
+    "static/media/award.png": "/portfolio/static/media/award.571916e178c8834bedc6.png",
+    "static/media/address.png": "/portfolio/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
+    "index.html": "/portfolio/index.html",
+    "main.349909ad.css.map": "/portfolio/static/css/main.349909ad.css.map",
+    "main.935682ab.js.map": "/portfolio/static/js/main.935682ab.js.map"
   },
   "entrypoints": [
     "static/css/main.349909ad.css",
-    "static/js/main.98cac2b6.js"
+    "static/js/main.935682ab.js"
   ]
 }
